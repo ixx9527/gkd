@@ -133,6 +133,7 @@ android {
                 "import_data" to "导入数据",
                 "http_server" to "HTTP服务",
                 "float_button" to "悬浮按钮",
+                //noinspection WrongGradleMethod
             ).forEach {
                 resValue("string", it.first, it.second + "-debug")
             }
