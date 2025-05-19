@@ -24,3 +24,7 @@ local.properties
 /.kotlin
 
 /gradle/libs.versions.updates.toml
+
+app/gkd/release/
+app/gkd/debug/
+
